@@ -10,5 +10,5 @@ redirect_from:
 
 About Me
 ======
-I am a postdoc fellow in the School of Engineering and Applied Science at Harvard University. I received the B.S. and Ph.D. degrees in the School of Electrical Engineering from Korea University in Feb. 2011 and Feb. 2018, respectively. My research interests are computer vision and connectomics, espeically in the problems of segmentation using deep learning.
+I am a Ph.D. Candidate in the Department of Political Science at the University of Florida. My primary research interests are international security, maritime conflict, and energy politics. I am regionally interested in China and East Asia. My dissertation focuses on China’s energy mercantilism, its asymmetric trade dependence with Southeast Asian neighboring countries, and their combined effects on the escalation of China’s militarized actions in its maritime disputes. My dissertation contributes to understanding China’s selective escalation in its maritime disputes—Why has China escalated maritime disputes in the South China Sea but not in the East China Sea or Yellow Sea—with my original dataset and methodological skills. I also focus on political methodology—statistical analysis, geographic information system (GIS) analysis, text analysis, and mixed methods. I have conducted fieldwork in Beijing, Shanghai, and Hong Kong, China. 
 
