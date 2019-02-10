@@ -23,10 +23,10 @@ This course aims to help students understand political science research and prod
 
 ------------------------------------------------------------------------------
 ## Teaching Assistant 
-CPO4721 Ethnic Politics (Spring 2018)
-INR2001 Introduction to International Relations (Fall 2013, Spring 2014 and Spring 2015)
-INR3333 International Security (Fall 2014)
-INS3004 Perspectives in International Studies (Fall 2015 and Spring 2016)
-IUF1000 What is the Good Life (Fall 2016 and Spring 2017)
+* CPO4721 Ethnic Politics (Spring 2018)
+* INR2001 Introduction to International Relations (Fall 2013, Spring 2014 and Spring 2015)
+* INR3333 International Security (Fall 2014)
+* INS3004 Perspectives in International Studies (Fall 2015 and Spring 2016)
+* IUF1000 What is the Good Life (Fall 2016 and Spring 2017)
 
 
