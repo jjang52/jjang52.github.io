@@ -15,13 +15,13 @@ author_profile: true
 
 
 ------------------------------------------------------------------------------
-### Publication
-1. Lee, Jean Young and Hye Ryeon Jang, `"Bilingual Education Policy in Xinjiang Uyghur Autonomous Region and Uyghur Society." The Korean Journal of Northeast Asia Studies 56 (2010): 105-132.
+## Publication
+### 1. Lee, Jean Young and Hye Ryeon Jang, `"Bilingual Education Policy in Xinjiang Uyghur Autonomous Region and Uyghur Society." The Korean Journal of Northeast Asia Studies 56 (2010): 105-132.
 
 ------------------------------------------------------------------------------
-### Work In Progress
+## Work In Progress
 
-#### 1. "Pax Petrolica? Oil, Middle East Geopolitics and Interstate Conflict, 1945-2010,'' with Benjamin Smith (under review)
+### 1. "Pax Petrolica? Oil, Middle East Geopolitics and Interstate Conflict, 1945-2010,'' with Benjamin Smith (under review)
 
 In the last decade resource curse scholars have argued widely that oil-rich countries are more likely to initiate armed disputes with their neighbors. In this essay, we argue that oil trade dependence should lead to peace, not to conflict, and we draw on a new dataset to show that the evidence suggests a strong petro-peace much more than it does petro-aggression. We also demonstrate that interstate conflicts started by radical leaders in oil producing states have been related to Middle East regional dynamics rather than to oil wealth. In particular, the unique features of the Iran-Iraq war largely drive bellicosity in that region. In fact, the middle years of the Iran-Iraq war are entirely responsible for a radical-petro-aggression effect spanning the entire world from 1945-2010. We conclude that oil producing states are significantly more pacific than non-producers and that the dynamics of the Iran-Iraq war do not appear to be more broadly applicable. 
 
