@@ -16,7 +16,7 @@ author_profile: true
 
 ------------------------------------------------------------------------------
 ## Publication
-### 1. Lee, Jean Young and Hye Ryeon Jang, `"Bilingual Education Policy in Xinjiang Uyghur Autonomous Region and Uyghur Society." The Korean Journal of Northeast Asia Studies 56 (2010): 105-132.
+[1] Lee, Jean Young and Hye Ryeon Jang, `"Bilingual Education Policy in Xinjiang Uyghur Autonomous Region and Uyghur Society." The Korean Journal of Northeast Asia Studies 56 (2010): 105-132.
 
 ------------------------------------------------------------------------------
 ## Work In Progress
