@@ -15,58 +15,22 @@ author_profile: true
 
 
 ------------------------------------------------------------------------------
-### Online Video Object Segmentation via Convolutional Trident Network
-![CTN](/files/abstract_figures/CTN_overview.png)
-
-##### Abstract
-A semi-supervised online video object segmentation algorithm, which accepts user annotations about a target object at the first frame, is proposed in this work. We propagate the segmentation labels at the previous frame to the current frame using optical flow vectors. However, the propagation is error-prone. Therefore, we develop the convolutional trident network (CTN), which has three decoding branches: separative, definite foreground, and definite background decoders. Then, we perform Markov random field optimization based on outputs of the three decoders. We sequentially carry out these processes from the second to the last frames to extract a segment track of the target object. Experimental results demonstrate that the proposed algorithm significantly outperforms the state-of-the-art conventional algorithms on the DAVIS benchmark dataset.
-
-##### Publication
-Won-Dong Jang and Chang-Su Kim, "Online Video Object Segmentation via Convolutional Trident Network," in Proc. IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, USA, pp. 5849-5858, Jul. 2017. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_Online_Video_Object_CVPR_2017_paper.pdf) [[supplementary video]](https://youtu.be/anBeoXcGoXg)
-
-##### Code
-[[GitHub link]](https://github.com/wdjang/CTN)
-
-
+### Publication
+1. Lee, Jean Young and Hye Ryeon Jang, `"Bilingual Education Policy in Xinjiang Uyghur Autonomous Region and Uyghur Society." The Korean Journal of Northeast Asia Studies 56 (2010): 105-132.
 
 ------------------------------------------------------------------------------
-### Streaming Video Segmentation via Short-Term Hierarchical Segmentation and Frame-by-Frame Markov Random Field Optimization
-![SVS](/files/abstract_figures/SVS.png)
+### Work In Progress
 
-##### Abstract
-An online video segmentation algorithm, based on short-term hierarchical segmentation (STHS) and frame-by-frame Markov random field (MRF) optimization, is proposed in this work. We develop the STHS technique, which generates initial segments by sliding a short window of frames. In STHS, we apply spatial agglomerative clustering to each frame, and then adopt inter-frame bipartite graph matching to construct initial segments. Then, we partition each frame into final segments, by minimizing an MRF energy function composed of unary and pairwise costs. We compute the unary cost using the STHS initial segments and the segmentation result at the previous frame. We set the pairwise cost to encourage similar nodes to have the same segment label. Experimental results on a video segmentation benchmark dataset, VSB100, demonstrate that the proposed algorithm outperforms state-of-the-art online video segmentation techniques significantly.
+#### 1. "Pax Petrolica? Oil, Middle East Geopolitics and Interstate Conflict, 1945-2010,'' with Benjamin Smith (under review)
 
-##### Publication
-Won-Dong Jang and Chang-Su Kim, "Streaming Video Segmentation via Short-Term Hierarchical Segmentation and Frame-by-Frame Markov Random Field Optimization," in Proc. European Conference on Computer Vision (ECCV), Amsterdam, Netherlands, Oct. 2016. [[pdf]](/files/2016_ECCV_WDJANG.pdf)
+In the last decade resource curse scholars have argued widely that oil-rich countries are more likely to initiate armed disputes with their neighbors. In this essay, we argue that oil trade dependence should lead to peace, not to conflict, and we draw on a new dataset to show that the evidence suggests a strong petro-peace much more than it does petro-aggression. We also demonstrate that interstate conflicts started by radical leaders in oil producing states have been related to Middle East regional dynamics rather than to oil wealth. In particular, the unique features of the Iran-Iraq war largely drive bellicosity in that region. In fact, the middle years of the Iran-Iraq war are entirely responsible for a radical-petro-aggression effect spanning the entire world from 1945-2010. We conclude that oil producing states are significantly more pacific than non-producers and that the dynamics of the Iran-Iraq war do not appear to be more broadly applicable. 
 
-##### Code
-[[GitHub link]](https://github.com/wdjang/SVS)
+#### 2. "China's Energy Vulnerability, Trade Dependence, and the Escalation of Its Militarized Maritime Disputes'' 
+Why has China escalated maritime disputes in the South China Sea but not in the East China Sea or Yellow Sea? Since China began its rapid economic development in the late 1980s, the rise of China has created both economic opportunities for, and security threats to, its neighbor states. As Southeast Asian states became more heavily dependent on bilateral trade with China in recent decades, the Chinese government has attempted to expand its influence in the South China Sea. The literature primarily focuses on China’s great power ambitions in East Asia as a whole. However, the puzzle of why China has not escalated its military actions in the East China Sea or Yellow Sea remains. I argue that two factors—China’s energy mercantilism (ambition to secure stable energy supplies) and its economic leverage over Southeast Asian states—explain this variation in strategy. Employing statistical analysis of an original dataset and GIS spatial analysis, I demonstrate that China is more likely to escalate disputes when it experiences greater energy vulnerability against more asymmetrically dependent neighbor states in which there exist higher geostrategic values, natural resources and proximity to major oil shipping lanes. 
 
-------------------------------------------------------------------------------
-### Semi-supervised Video Object Segmentation Using Multiple Random Walkers
-![SSVOS](/files/abstract_figures/SSVOS.png)
+#### 3. "Understanding Spatial Correlation between Geostrategic Values of China's Disputed Islands and the Escalation of Its Military Actions'' 
+During the past decade China has aggressively expanded its influence around the Paracel Islands, Spratly Islands, and Scarborough Shoal in the South China Sea. Unlike them, however, China has rarely escalated militarized tensions in other areas in the South China Sea. Why has China escalated military actions in only certain areas of the South China Sea? My research aims to examine the causal factor—geostrategic values of the disputed islands—and spatial dependence of China’s inconsistent behavior in its maritime disputes. I believe China tends to escalate military actions around the disputed islands which have high geostrategic values and in which China experienced militarized confrontations before. As such, the more natural resources (oil and natural gas) are embedded around the disputed islands and the closer China’s main sea lanes of communications (SLOCs) is to the disputed islands, and the greater the likelihood that China will increase militarized tensions nearby the islands where China experienced military confrontations with its counterpart a year ago. To test my hypothesis, I use the ArcGIS analysis and produce a new map to show the spatial correlation between China’s escalation of military conflict and the geostrategic values of the region. Afterward, via using a spatial lag model with time-lagged effects, this research shows China is more likely to increase military tensions near the islands which have more reserved natural resources, which are closer to SLOCs is closer, and where China encountered military confrontations with Southeast Asian neighbor countries before.    
 
-##### Abstract
-A semi-supervised video object segmentation algorithm using multiple random walkers (MRW) is proposed in this work. We develop an initial probability estimation scheme that minimizes an objective function to roughly separate the foreground from the background. Then, we simulate MRW by employing the foreground and background agents. During the MRW process, we update restart distributions using a hybrid of inference restart rule and interactive restart rule. By performing these processes from the second to the last frames, we obtain a segment track of the target object. Furthermore, we optionally refine the segment track by performing Markov random field optimization. Experimental results demonstrate that the proposed algorithm significantly outperforms the state-of-the-art conventional algorithms on the SegTrack v2 dataset.
-
-##### Publication
-Won-Dong Jang and Chang-Su Kim, "Semi-supervised Video Object Segmentation Using Multiple Random Walkers," in Proc. British Machine Vision Conference (BMVC), York, UK, Sep. 2016. [[pdf]](/files/2016_BMVC_WDJANG.pdf)
-
-##### Code
-[[GitHub link]](https://github.com/wdjang/SSVOS)
-
-
-------------------------------------------------------------------------------
-### Primary Object Segmentation in Videos via Alternate Convex Optimization of Foreground and Background Distributions
-![ACO](/files/abstract_figures/ACO.png)
-
-##### Abstract
-An unsupervised video object segmentation algorithm, which discovers a primary object in a video sequence automatically, is proposed in this work. We introduce three energies in terms of foreground and background probability distributions: Markov, spatiotemporal, and antagonistic energies. Then, we minimize a hybrid of the three energies to separate a primary object from its background. However, the hybrid energy is nonconvex. Therefore, we develop the alternate convex optimization (ACO) scheme, which decomposes the nonconvex optimization into two quadratic programs. Moreover, we propose the forward-backward strategy, which performs the segmentation sequentially from the first to the last frames and then vice versa, to exploit temporal correlations. Experimental results on extensive datasets demonstrate that the proposed ACO algorithm outperforms the state-of-the-art techniques significantly.
-
-##### Publication
-Won-Dong Jang, Chulwoo Lee, and Chang-Su Kim, "Primary Object Segmentation in Videos via Alternate Convex Optimization of Foreground and Background Distributions," in Proc. IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, USA, pp. 696-704, Jun. 2016. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Jang_Primary_Object_Segmentation_CVPR_2016_paper.pdf) [[supplementary video]](https://youtu.be/2Tv74CI2ElU)
-
-##### Code
-[[GitHub link]](https://github.com/wdjang/ACO)
-
+#### 4. "Great Powers and the World Oil Market: A Network Analysis of China's Rise and Shifting Oil Export Geography,'' with Benjamin Smith
+In this paper we address the role of great power alliances with oil producers and how they have changed in the last 50 years. Crude oil is the single largest commodity trade in the world, and most countries import oil from a small number of oil-producing countries through the international market. As such, there is always highly asymmetric structure. How does the emergence of a new great power, such as China, change the structure of the international crude oil market? If the great power has oil-producing allies, how does it affect the oil market? We employ spatial network analysis to answer the first question, where the oil trading countries are considered nodes, oil trading relations are considered edges, and weight is oil trade volume. Through spatial network analysis, we compare the crucial values of centrality, density, and modularity of the oil trade network before and after China’s emergence as a major power. We conclude that the oil trade network has become more centralized and ordered since China became a major oil-importing country in the mid-2000s. Traditional key oil-importing countries—the United States and Europe—lost influence in 2012 while China’s in-degree centrality in the network increased dramatically. Moreover, China has created its own trading blocs in the Middle East and Central Africa, which also indicate the critically increased influence of China within the global network. We then turn to the second question, accounting for whether major powers are oil producers or not, using global data from 1945 to 2010. We demonstrate that this question is key to understanding whether great power allies render oil producing countries more likely to initiate conflicts. The more import-dependent the major power, the less likely pressure on its producing allies, both before and after China’s rise.
 
