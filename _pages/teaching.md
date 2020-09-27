@@ -30,5 +30,5 @@ This course aims to help students understand the dynamics of international confl
 * INR3333 International Security (Fall 2014)
 * INS3004 Perspectives in International Studies (Fall 2015 and Spring 2016)
 * IUF1000 What is the Good Life (Fall 2016 and Spring 2017)
-
+* POS6737 Data Analysis (Graduate Course, Fall 2020)
 
