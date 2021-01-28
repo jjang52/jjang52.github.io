@@ -22,8 +22,7 @@ author_profile: true
 ------------------------------------------------------------------------------
 ## Work In Progress
 
-### 1. "Pax Petrolica? Oil, Middle East Geopolitics and Interstate Conflict, 1945-2010,'' with Benjamin Smith (invited to revise and re-submit)
-
+### 1. "Pax Petrolica? Oil, Middle East Geopolitics and Interstate Conflict, 1945-2010,'' with Benjamin Smith (Forthcoming in Security Studies)
 In the last decade resource curse scholars have argued widely that oil-rich countries are more likely to initiate armed disputes with their neighbors. In this essay, we argue that oil trade dependence should lead to peace, not to conflict, and we draw on a new dataset to show that the evidence suggests a strong petro-peace much more than it does petro-aggression. We also demonstrate that interstate conflicts started by radical leaders in oil producing states have been related to Middle East regional dynamics rather than to oil wealth. In particular, the unique features of the Iran-Iraq war largely drive bellicosity in that region. In fact, the middle years of the Iran-Iraq war are entirely responsible for a radical-petro-aggression effect spanning the entire world from 1945-2010. We conclude that oil producing states are significantly more pacific than non-producers and that the dynamics of the Iran-Iraq war do not appear to be more broadly applicable. 
 
 ### 2. "China's Energy Vulnerability, Trade Dependence, and the Escalation of Its Militarized Maritime Disputes'' 
