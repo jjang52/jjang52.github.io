@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Hye Ryeon Jang"
 title_separator          : "-"
 name                     : &name "Hye Ryeon Jang"
-description              : &description "A Ph.D. in Political Science at the University of Florida"
+description              : &description "Assistant Professor at Morehouse College"
 url                      : "https://jjang52.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jjang52.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Hye Ryeon Jang"
   avatar           : "frontpage_photo.jpg"
-  bio              : "A Ph.D. in Political Science at the University of Florida"
-  location         : "Gainesville, FL"
+  bio              : "Assistant Professor at Morehouse College"
+  location         : "Atlanta, GA"
   employer         :
   googlescholar    : 
-  email            : "hrjang52@ufl.edu"
+  email            : "hyeryeon.jang@morehouse.edu"
   uri              :
   bitbucket        :
   codepen          :
