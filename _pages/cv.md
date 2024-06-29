@@ -11,5 +11,5 @@ redirect_from:
 
 Curriculum Vitae
 ======
-* [<span style="color:grey">[Download as PDF]</span>](/files/Jang_CV.pdf)
+* [<span style="color:grey">[Download as PDF]</span>](/files/CV.pdf)
 
