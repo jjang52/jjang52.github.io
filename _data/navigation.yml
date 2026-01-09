@@ -15,7 +15,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "HJ Lab"
+    url: /hjlab/
+  
 #  - title: "Portfolio"
 #    url: /portfolio/
         
