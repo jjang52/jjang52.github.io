@@ -18,24 +18,24 @@ author_profile: true
 
 ## Current Lab Members
 
-- **[Kyshan Nichols-Smith](mailto:kyshan.nichols-smith@duke.edu)**, Graduate Assistant 
+- **[Kyshan Nichols-Smith](mailto:kyshan.nichols-smith@duke.edu)**, Graduate Assistant, 
   Ph.D. Student, Department of Political Science, Duke University
-- **[Myles Ndiritu](mailto:myles.ndiritu@morehouse.edu)**, Student Lab Leader 
+- **[Myles Ndiritu](mailto:myles.ndiritu@morehouse.edu)**, Student Lab Leader, 
   Senior, International Studies Major, Morehouse College 
-- **[Kade Davis](mailto:kade.davis@morehouse.edu)** 
+- **[Kade Davis](mailto:kade.davis@morehouse.edu)**, 
   Senior, Sociology Major, Morehouse College 
-- **[Amari Gray](mailto:amari.gray@morehouse.edu)** 
+- **[Amari Gray](mailto:amari.gray@morehouse.edu)**, 
   Senior, Computer Science Major, Morehouse College
-- **[Andrew Ratcliff](mailto:andrew.ratcliff@morehouse.edu)** 
+- **[Andrew Ratcliff](mailto:andrew.ratcliff@morehouse.edu)**, 
   Senior, Political Science Major, Morehouse College 
-- **[Isaiah Riley](mailto:isaiah.riley@morehouse.edu)** 
+- **[Isaiah Riley](mailto:isaiah.riley@morehouse.edu)**, 
   Junior, Political Science Major, Morehouse College 
-- **[Theron White](mailto:theron.white@morehouse.edu)** 
+- **[Theron White](mailto:theron.white@morehouse.edu)**, 
   Junior, Political Science Major, Morehouse College 
 
 ## Previous Lab Member 
 
-- **[Hasan Henry](mailto:m-henry@berkeley.edu)** 
+- **[Hasan Henry](mailto:m-henry@berkeley.edu)**, 
   Ph.D. Student, Department of Sociology, UC Berkeley
 
 ## Collaborative Lab 
