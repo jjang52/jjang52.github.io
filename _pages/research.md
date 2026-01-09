@@ -24,9 +24,9 @@ In the last decade resource curse scholars have argued widely that oil-rich coun
 </p>
 </details>
 
-[2] Lee, Jean Young and Jang, Hye Ryeon, "Bilingual Education Policy in Xinjiang Uyghur Autonomous Region and Uyghur Society." The Korean Journal of Northeast Asia Studies 56 (2010): 105-132.
+[2] Jang, Hye Ryeon, Jordan Quinones-Marrero, and Juan M. Hincapie-Castillo. "Environmental Scan of COVID-19 Infection Dashboards in the Florida Public School System." Frontiers in Public Health (2022).  [[Link]](https://www.frontiersin.org/articles/10.3389/fpubh.2022.925808/abstract)
 
-[3] Jang, Hye Ryeon, Jordan Quinones-Marrero, and Juan M. Hincapie-Castillo. "Environmental Scan of COVID-19 Infection Dashboards in the Florida Public School System." Frontiers in Public Health (2022).  [[Link]](https://www.frontiersin.org/articles/10.3389/fpubh.2022.925808/abstract)
+[3] Lee, Jean Young and Jang, Hye Ryeon, "Bilingual Education Policy in Xinjiang Uyghur Autonomous Region and Uyghur Society." The Korean Journal of Northeast Asia Studies 56 (2010): 105-132.
 
 ------------------------------------------------------------------------------
 ## Work In Progress
