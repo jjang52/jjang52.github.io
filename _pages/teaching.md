@@ -34,12 +34,16 @@ This course aims to help students understand the main theoretical approaches in 
 
 
 
+### PSC 468 Seminar on International Security after the Cold War
+This course aims to help students understand the dynamics of international security and conduct their own scientific research. Throughout the course, we will discuss four questions: (1) what is the concept of the scientific study of international security? (2) how to conduct scientific study? (3) which causal factor contributes to the initiation, escalation, and termination of international conflict? (4) which methodology is the best fit to study international security? We will critically examine the various causes and correlates of international conflict from different level of analysis as well as the outcomes and consequences of war. We will also evaluate the different methodologies (from statistical analysis to in-depth case studies) and will have an opportunity to analyze statistical data used in current literature.
+
+
+
 ### PSC 489 Problems of International Relations: China and the World
 This course aims to help students understand how China has interacted with the world. The rise of China has been a global phenomenon since China’s reform and opening-up policy in 1978. China has exerted a great amount of political and economic influence to the world, which may affect our daily life. China’s prosperity has provided significant economic opportunities to other countries. On the other hand, China has maintained a one-party system led by the Chinese Communist Party and achieved rapid economic development by implementing a different developmental strategy unlike other developed countries. It may provide an alternative path to other underdeveloped authoritarian countries, which may pose a threat to the United States. Under such circumstances, it is uncertain whether China provides an opportunity or poses a threat to the current international system. Due to the Chinese political system, international policymakers often misunderstand China’s behavior. Therefore, it is important to understand China’s foreign policy behavior and its underlying intention. To do so, this course first attempts to analyze how China’s domestic politics link to its foreign policy. As a great power (like the United States), China’s international behavior comes from its domestic politics. Afterwards, we will focus on China’s cooperation and competition with the world by each theme (e.g., security, economy, and governance). 
 
 
-## Graduate Student Instructor
-* POS4734 Research Methods in Political Science (Fall 2018, Fall 2019, and Spring 2022)
-* INR4931 Data Science and Human Rights (Fall 2021)
-* INR4931 EU-China Relations (Spring 2020)
-* INR4083 War and Peace in World Politics (Fall 2017)
+### PSC 490 Conflict and Conflict Resolution
+This advanced undergraduate seminar examines the onset, expansion, and consequences of conflict in the international system, with primary emphasis on interstate war and crisis but sustained attention to intrastate
+conflict where dynamics overlap. We begin with core theories of conflict – territorial disputes, maritime claims, enduring rivalry, alliances, and the democratic peace – before extending to unconventional yet increasingly
+consequential themes such as energy politics and climate change. The course is organized thematically rather than chronologically. We use historical cases to build theoretical leverage and then test those ideas against contemporary developments. While our scope is global, several weeks focus on East Asia, especially U.S.–China strategic competition, to evaluate how great-power rivalry, regional institutions, and evolving military technologies shape conflict behavior today. Methodologically, the course encourages an interdisciplinary methodology. Students will encounter and practice approaches that include theory-driven qualitative analysis, quantitative and computational methods, formal modeling, and mixed-method designs. Emphasis is placed on research transparency, causal identification, and the careful matching of questions, evidence, and methods.
