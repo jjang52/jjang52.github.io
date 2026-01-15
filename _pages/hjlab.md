@@ -42,7 +42,7 @@ author_profile: true
 
 ## Collaborative Lab 
 
-- **[Quantitative History Workshop](https://quant-shop.github.io/)**
+- **[Quantitative History Workshop](https://quant-shop.github.io/)**  
 PI: Nathan Alexander, Ph.D., Department of Curriculum and Instruction, Howard University  
 Lab Manager: Lyrric Jackson, Department of Dance Performance and Choreography, Spelman College
 
