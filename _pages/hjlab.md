@@ -33,7 +33,7 @@ author_profile: true
 - **[Theron White](mailto:theron.white@morehouse.edu)**, 
   Junior, Political Science Major, Morehouse College
 - **[Elijah Qualls](mailto:elijah.qualls@morehouse.edu).**,
-  Junior, Political Science & Journalism Major, Morehouse College
+  Junior, Political Science Major, Morehouse College
 
 ## Previous Lab Member 
 
