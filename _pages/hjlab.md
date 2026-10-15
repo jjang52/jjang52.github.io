@@ -32,11 +32,11 @@ author_profile: true
   Senior, Political Science Major, Morehouse College 
 - **[Theron White](mailto:theron.white@morehouse.edu)**, 
   Senior, Political Science Major, Morehouse College
-- **[Elijah Qualls](mailto:elijah.qualls@morehouse.edu).**,
+- **[Elijah Qualls](mailto:elijah.qualls@morehouse.edu)**,
   Senior, Political Science Major, Morehouse College
-- **[Mali Glemaud Thesee](mailto:mali.glemaudthesee@morehouse.edu).**,
+- **[Mali Glemaud Thesee](mailto:mali.glemaudthesee@morehouse.edu)**,
   Senior, Computer Science Major, Morehouse College
-- **[Zion Spruill](mailto:zion.spruill@morehouse.edu).**,
+- **[Zion Spruill](mailto:zion.spruill@morehouse.edu)**,
   Junior, Political Science Major, Morehouse College
 - **[Lauren Corbie](mailto:laurencorbie@spelman.edu)**,
   Senior, Computer Science Major, Spelman College
