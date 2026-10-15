@@ -38,6 +38,8 @@ author_profile: true
   Senior, Computer Science Major, Morehouse College
 - **[Zion Spruill](mailto:zion.spruill@morehouse.edu).**,
   Junior, Political Science Major, Morehouse College
+- **[Lauren Corbie](mailto:laurencorbie@spelman.edu).**,
+  Senior, Computer Science Major, Spelman College
 
 ## Previous Lab Member 
 
